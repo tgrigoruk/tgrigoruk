@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Terence Grigoruk</h1>
-<h3 align="center">A student in the Computer Systems Technology program at the British Columbia Institute of Technology.</h3>
+<h3 align="center">I currently a student in the Computer Systems Technology program at the British Columbia Institute of Technology.</h3>
 
 - 🌱 I’m currently learning **Java, C, SQL, Systems Architecture, Database Management Systems**
 
