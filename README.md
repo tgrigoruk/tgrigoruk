@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Terence Grigoruk</h1>
-<h3 align="center">I'm currently a student in the Computer Systems Technology program at the British Columbia Institute of Technology.</h3>
-
-- 🌱 I’m in the 4th term taking the **Predictive Analytics** option.
+<h3 align="center">I'm currently a Software Developer at 
+  <a href="https://clarius.com">Clarius Mobile Health</a>
+</h3>
 
 - 📫 How to reach me **terence.grigoruk@gmail.com**
 
